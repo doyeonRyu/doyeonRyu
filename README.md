@@ -1,4 +1,4 @@
-### Hi there 👋
----
-Name: Doyeon Ryu
-Gachon University smartcity/AI
+## Hello!
+
+- Name: Ryu doyeon
+- University: Gachon university smartcity/AI
